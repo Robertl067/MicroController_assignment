@@ -1,0 +1,2 @@
+# MicroController_assignment
+Assignment for HARDWARE, MICRO-CONTROLLERS AND SENSORS : COMP50069-2025-SUG2-2025-SUG2 (SUL)
